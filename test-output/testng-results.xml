@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="3" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="29610" started-at="2017-11-08T20:45:56Z" finished-at="2017-11-08T20:46:26Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="29610" started-at="2017-11-08T20:45:56Z" finished-at="2017-11-08T20:46:26Z">
+      <class name="seleniumcodingday3.seleniumTestScript1">
+        <test-method status="PASS" signature="webDriverCommands3()[pri:0, instance:seleniumcodingday3.seleniumTestScript1@735b5592]" name="webDriverCommands3" duration-ms="29533" started-at="2017-11-08T15:45:56Z" finished-at="2017-11-08T15:46:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- webDriverCommands3 -->
+      </class> <!-- seleniumcodingday3.seleniumTestScript1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
